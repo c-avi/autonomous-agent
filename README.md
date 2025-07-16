@@ -10,5 +10,5 @@ This project simulates a basic autonomous AI agent using Python and Selenium. It
 - Option to retry previous tasks
 - Menu-driven interface for ease of use
 
-## 📁 Project Structure
+
 
